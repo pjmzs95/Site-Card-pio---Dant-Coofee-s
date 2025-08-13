@@ -1,2 +1,2 @@
-# Site-Card-pio---Dant-Coofee-s
+# Site-Cardapio DantCoofees
 Projeto de um cardápio em um site 
